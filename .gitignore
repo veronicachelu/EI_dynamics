@@ -173,5 +173,7 @@ cython_debug/
 mean_field__decision_making/.DS_Store
 neuralAC__adaptive_learning/.DS_Store
 __py_cache__
+mean_field__decision_making/__py_cache__
+neuralAC__adaptive_learning/__py_cache__
 src/__py_cache__
 src/.DS_Store
